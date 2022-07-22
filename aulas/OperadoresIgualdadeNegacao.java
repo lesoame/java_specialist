@@ -15,7 +15,7 @@ public class OperadoresIgualdadeNegacao {
     System.out.printf("Numeros iguais: %b%n", numerosIguais);
     // System.out.printf("Numeros iguais: %b%n", numero1 == numero2);
 
-    // System.out.printf("Números diferentes: %b%n, numerosDiferentes");
+    // System.out.printf("Numeros diferentes: %b%n", numerosDiferentes);
 
     String nome1 = "Thiago";
     String nome2 = "Thiago";

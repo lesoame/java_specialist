@@ -4,6 +4,10 @@ public class OperadoresComparacao {
     int pesoProdutos = 900;
     int limitePesoCaminhao = 1000;
 
+    boolean cargaExcedida = pesoProdutos > limitePesoCaminhao;
+    System.out.printf("Carga excedida: %b%n", cargaExcedida);
+    
+    // comitar...
   }
 
 }

@@ -10,11 +10,9 @@ public class ExameCortisol {
 
     // cortisol ideal é de 6 a 18.4
     boolean resultadoNormal = cortisol >= 6.0 && cortisol <= 18.4;
-
     System.out.printf("Cortisol normal: %b%n", resultadoNormal);
 
     boolean resultadoAnormal = cortisol < 6.0 || cortisol > 18.4;
-
     System.out.printf("Cortisol anormal: %b%n", resultadoAnormal);
 
   }

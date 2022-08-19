@@ -29,7 +29,6 @@ public class CalculadoraIndiceMassaCorporal {
       System.out.println("Obesidade grau I.");
     }
 
-
     if (imc >= 35 && imc < 40 ) {
       System.out.println("Obesidade grau II.");
     }

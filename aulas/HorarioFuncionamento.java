@@ -17,7 +17,7 @@ public class HorarioFuncionamento {
       case "qua":
       case "qui":
       case "sex":
-        horarioFuncionamento = "08:00 as 18:00";
+        horarioFuncionamento = "08:00 as 21:00";
         break;
       case "sab":
       case "dom":
